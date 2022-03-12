@@ -26,7 +26,7 @@
   {
     "full_name": "grouparoo/grouparoo",
     "stargazers_count": 581,
-    "open_issues_count": 59,
+    "open_issues_count": 58,
     "forks_count": 61
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "google/season-of-docs",
-    "stargazers_count": 185,
-    "open_issues_count": 11,
-    "forks_count": 386
+    "stargazers_count": 187,
+    "open_issues_count": 3,
+    "forks_count": 391
   },
   {
     "full_name": "cdfoundation/the-pipeline-podcast",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "spinnaker/spinnaker",
-    "stargazers_count": 8356,
+    "stargazers_count": 8361,
     "open_issues_count": 198,
-    "forks_count": 1151
+    "forks_count": 1152
   },
   {
     "full_name": "spinnaker-hackathon/gardening",
@@ -74,14 +74,14 @@
   {
     "full_name": "cdfoundation/foundation",
     "stargazers_count": 20,
-    "open_issues_count": 25,
+    "open_issues_count": 22,
     "forks_count": 9
   },
   {
     "full_name": "wesbos/beginner-javascript",
-    "stargazers_count": 5288,
+    "stargazers_count": 5300,
     "open_issues_count": 17,
-    "forks_count": 1277
+    "forks_count": 1279
   },
   {
     "full_name": "philhawksworth/hello-trello",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "cncf/tag-contributor-strategy",
-    "stargazers_count": 62,
-    "open_issues_count": 33,
+    "stargazers_count": 63,
+    "open_issues_count": 35,
     "forks_count": 40
   },
   {
     "full_name": "radix-ui/design-system",
-    "stargazers_count": 1232,
+    "stargazers_count": 1240,
     "open_issues_count": 10,
     "forks_count": 98
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "kubernetes/community",
-    "stargazers_count": 9431,
-    "open_issues_count": 189,
-    "forks_count": 4292
+    "stargazers_count": 9441,
+    "open_issues_count": 188,
+    "forks_count": 4299
   },
   {
     "full_name": "1milligram/1loc",
-    "stargazers_count": 5355,
+    "stargazers_count": 5360,
     "open_issues_count": 47,
-    "forks_count": 421
+    "forks_count": 422
   },
   {
     "full_name": "jessicarose/open-advice-1-1s",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "sindresorhus/css-in-readme-like-wat",
-    "stargazers_count": 4794,
+    "stargazers_count": 4796,
     "open_issues_count": 1,
-    "forks_count": 1711
+    "forks_count": 1710
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 1944,
+    "stargazers_count": 1952,
     "open_issues_count": 16,
     "forks_count": 125
   }
