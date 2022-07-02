@@ -1,8 +1,8 @@
 [
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 85,
-    "open_issues_count": 25,
+    "stargazers_count": 87,
+    "open_issues_count": 24,
     "forks_count": 31
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "lfades/static-tweet",
-    "stargazers_count": 562,
+    "stargazers_count": 564,
     "open_issues_count": 7,
-    "forks_count": 98
+    "forks_count": 99
   },
   {
     "full_name": "grouparoo/grouparoo",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "kubernetes-sigs/contributor-playground",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 5,
     "forks_count": 655
   },
   {
     "full_name": "google/season-of-docs",
-    "stargazers_count": 235,
-    "open_issues_count": 5,
-    "forks_count": 528
+    "stargazers_count": 238,
+    "open_issues_count": 4,
+    "forks_count": 527
   },
   {
     "full_name": "cdfoundation/the-pipeline-podcast",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "spinnaker/spinnaker",
-    "stargazers_count": 8501,
-    "open_issues_count": 193,
+    "stargazers_count": 8504,
+    "open_issues_count": 189,
     "forks_count": 1169
   },
   {
@@ -75,13 +75,13 @@
     "full_name": "cdfoundation/foundation",
     "stargazers_count": 19,
     "open_issues_count": 30,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "wesbos/beginner-javascript",
-    "stargazers_count": 5528,
+    "stargazers_count": 5533,
     "open_issues_count": 34,
-    "forks_count": 1356
+    "forks_count": 1357
   },
   {
     "full_name": "philhawksworth/hello-trello",
@@ -98,12 +98,12 @@
   {
     "full_name": "cncf/tag-contributor-strategy",
     "stargazers_count": 69,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 42
   },
   {
     "full_name": "radix-ui/design-system",
-    "stargazers_count": 1387,
+    "stargazers_count": 1393,
     "open_issues_count": 13,
     "forks_count": 115
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "celo-org/celo-proposals",
-    "stargazers_count": 47,
+    "stargazers_count": 46,
     "open_issues_count": 46,
     "forks_count": 30
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "kubernetes/community",
-    "stargazers_count": 9840,
-    "open_issues_count": 147,
-    "forks_count": 4505
+    "stargazers_count": 9856,
+    "open_issues_count": 146,
+    "forks_count": 4509
   },
   {
     "full_name": "1milligram/1loc",
-    "stargazers_count": 5887,
+    "stargazers_count": 5891,
     "open_issues_count": 47,
     "forks_count": 458
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "rubymorillo/pocket-tech-writing-list",
-    "stargazers_count": 636,
+    "stargazers_count": 637,
     "open_issues_count": 0,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "leanmotherfuckers/serverless-magic-links-poc",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "sindresorhus/css-in-readme-like-wat",
-    "stargazers_count": 4847,
+    "stargazers_count": 4848,
     "open_issues_count": 1,
     "forks_count": 1763
   },
   {
     "full_name": "MaggieAppleton/digital-gardeners",
-    "stargazers_count": 2187,
-    "open_issues_count": 24,
-    "forks_count": 137
+    "stargazers_count": 2194,
+    "open_issues_count": 25,
+    "forks_count": 138
   }
 ]
